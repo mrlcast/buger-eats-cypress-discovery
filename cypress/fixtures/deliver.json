@@ -1,0 +1,50 @@
+{
+    "signup":{
+        "name": "Marlon Castilho",
+            "cpf": "01234567890",
+            "email": "test@gmail.com.br",
+            "whatsapp": "41999999999",
+            "address": {
+                "postalcode": "81070000",
+                "street": "Rua João Bettega",
+                "number": "655",
+                "details": "ap 103 bloco 10",
+                "district": "Portão",
+                "city_state": "Curitiba/PR"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Jarbas Thiago",
+            "cpf": "01234X678A0",
+            "email": "test@hotmail.com.br",
+            "whatsapp": "4199998888",
+            "address": {
+                "postalcode": "81070000",
+                "street": "Rua João Bettega",
+                "number": "1",
+                "details": " ",   
+                "district": "Portão",
+                "city_state": "Curitiba/PR"
+            },
+            "delivery_method": "Bike Elétrica",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Tigas",
+            "cpf": "01234567890",
+            "email": "test.hotmail",
+            "whatsapp": "4199997654",
+            "address": {
+                "postalcode": "81070000",
+                "street": "Rua João Bettega",
+                "number": "9999",
+                "details": "AP 200",   
+                "district": "Portão",
+                "city_state": "Curitiba/PR"
+            },
+            "delivery_method": "Van/Carro",
+            "cnh": "cnh-digital.jpg"
+    }
+}
